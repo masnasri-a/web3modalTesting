@@ -1,0 +1,36 @@
+#title {
+    margin-top: 15rem;
+    font-size: 40px;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+/* 
+.menu {
+    margin-top: 10rem;
+    font-size: 40px;
+    font-family: 'Rubik', sans-serif;
+} */
+
+.alert {
+    margin-top: 25px;
+    text-align: center;
+}
+
+#btn-transaction {
+    margin-top: 1rem;
+    width: 100%;
+    display: block;
+}
+
+#btn-check-balance {
+    margin-top: 1rem;
+    width: 100%;
+    display: block;
+}
+
+#btn-sign {
+    margin-top: 1rem;
+    width: 100%;
+    display: block;
+}
